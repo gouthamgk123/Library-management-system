@@ -11,8 +11,8 @@ function App() {
       <BrowserRouter>
       <Routes>
         <Route path='/'element ={<LandingPage/>}/>
-        <Route path='admin login'element ={<AdminLogin/>}/>
-        <Route path='user login'element ={<UserLogin/>}/>
+        <Route path='/admin login'element ={<AdminLogin/>}/>
+        <Route path='/user login'element ={<UserLogin/>}/>
 
 
 
@@ -24,3 +24,18 @@ function App() {
 }
 
 export default App;
+
+
+//git init
+//git add remote
+// git add
+// git status
+//git commit -m "message"
+//git branch -M main
+//git push -u origin main
+
+
+// ....for second time 
+// git add
+//git commit -m "message"
+//git push
